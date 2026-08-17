@@ -1,0 +1,21 @@
+{
+  "Group": "Tashy",
+  "Name": "HytaleProjectPack",
+  "Version": "1.0.0",
+  "Description": "Server Mod",
+  "Authors": [
+    {
+      "Name": "Tashy",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": ">=0.5.9 <0.6.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

@@ -1,0 +1,14 @@
+{
+  "Markers": {
+    "1891511874902555981": {
+      "Position": {
+        "X": -691,
+        "Y": 105,
+        "Z": 233
+      },
+      "Name": "server.items.Forgotten_Temple_Portal_Enter.name",
+      "Icon": "Temple_Gateway.png",
+      "MarkerId": "861e821c-271b-40b1-8ed3-e1a8d7d0f2ea"
+    }
+  }
+}

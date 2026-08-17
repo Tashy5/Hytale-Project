@@ -1,0 +1,44 @@
+{
+  "Version": 4,
+  "ServerName": "Hytale Server",
+  "MOTD": "",
+  "Password": "",
+  "MaxPlayers": 100,
+  "MaxViewRadius": 32,
+  "Defaults": {
+    "World": "default",
+    "GameMode": "Adventure"
+  },
+  "ConnectionTimeouts": {},
+  "RateLimit": {},
+  "Modules": {
+    "PathPlugin": {
+      "Modules": {}
+    },
+    "Telemetry": {
+      "Modules": {}
+    }
+  },
+  "LogLevels": {},
+  "Mods": {
+    "Tashy:HytaleProjectPack": {
+      "Enabled": true
+    },
+    "Hytale Project:Hytale Project": {
+      "Enabled": false
+    }
+  },
+  "DisplayTmpTagsInStrings": false,
+  "PlayerStorage": {
+    "Type": "Hytale"
+  },
+  "Update": {},
+  "Backup": {
+    "Enabled": true,
+    "FrequencyMinutes": 30,
+    "Directory": "backup",
+    "MaxCount": 5,
+    "ArchiveMaxCount": 5
+  },
+  "WorldMap": {}
+}
